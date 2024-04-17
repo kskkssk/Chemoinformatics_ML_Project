@@ -2,7 +2,7 @@
 
 Dataset was taken: Infochemistry, ITMO university
 
-Assessment of the biodegradability of materials in the aquatic environment: classification
+**Assessment of the biodegradability of materials in the aquatic environment: classification**
 
 **Task:** It is necessary to train the model to determine whether a given organic substance is capable of biodegradation
 
